@@ -1,10 +1,3 @@
-##TODO:
-#add license statement
-
-##Questions:
-#get number of stock of a certain type and search if a stock is available are very similar functionalities
-#What is meant by "Provide input parameters and its functionality."?
-#Can we choose an arbitrary set of values for the three items in our warehouse? What to do if no input is provided?
 
 #Define Stock Class
 class Stock:
